@@ -1,2 +1,2 @@
 # golang-rest-api-starter
-A minimal Go REST API starter kit powered by [GOREST](https://github.com/elsyahtech/gorest).
+A Go REST API starter kit built with [GOREST](https://github.com/elsyahtech/gorest), featuring practical examples of CRUD operations, database transactions, migrations, and native queries.
